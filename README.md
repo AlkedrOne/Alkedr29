@@ -11,7 +11,7 @@
 
 or:
 
-oopuma2@mail.ru
+oopuma2@gmail.com
 
 <!--
 **Alkedr29/Alkedr29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
